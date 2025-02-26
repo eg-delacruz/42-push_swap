@@ -25,17 +25,29 @@ For this project, I used the Mechanical Turk algorithm, created by former 42 stu
 
 ### Allowed moves
 
-<img src="https://i.imgur.com/pLYP3EO.gif" width="60%" alt="SA move">
-<img src="https://i.imgur.com/Wq6cqEL.gif" width="60%" alt="SB move">
-<img src="https://i.imgur.com/f7RG2fr.gif" width="60%" alt="SS move">
-<img src="https://i.imgur.com/ZpBikjD.gif" width="60%" alt="PA move">
-<img src="https://i.imgur.com/7sjmAFB.gif" width="60%" alt="PB move">
-<img src="https://i.imgur.com/INjPyFk.gif" width="60%" alt="RA move">
-<img src="https://i.imgur.com/NAbNEKj.gif" width="60%" alt="RB move">
-<img src="https://i.imgur.com/raXPPmR.gif" width="60%" alt="RR move">
-<img src="https://i.imgur.com/1i9vFuH.gif" width="60%" alt="RRA move">
-<img src="https://i.imgur.com/Yy67poL.gif" width="60%" alt="RRB move">
-<img src="https://i.imgur.com/PMJ6re5.gif" width="60%" alt="RRR move">
+<style>
+  img {
+    width: 60%;
+  }
+
+  @media (max-width: 600px) {
+    img {
+      width: 100%;
+    }
+  }
+</style>
+
+<img src="https://i.imgur.com/pLYP3EO.gif" alt="SA move">
+<img src="https://i.imgur.com/Wq6cqEL.gif" alt="SB move">
+<img src="https://i.imgur.com/f7RG2fr.gif" alt="SS move">
+<img src="https://i.imgur.com/ZpBikjD.gif" alt="PA move">
+<img src="https://i.imgur.com/7sjmAFB.gif" alt="PB move">
+<img src="https://i.imgur.com/INjPyFk.gif" alt="RA move">
+<img src="https://i.imgur.com/NAbNEKj.gif" alt="RB move">
+<img src="https://i.imgur.com/raXPPmR.gif" alt="RR move">
+<img src="https://i.imgur.com/1i9vFuH.gif" alt="RRA move">
+<img src="https://i.imgur.com/Yy67poL.gif" alt="RRB move">
+<img src="https://i.imgur.com/PMJ6re5.gif" alt="RRR move">
 
 ### Core idea
 
