@@ -95,7 +95,7 @@ Calculate the push cost for each node in stack A: count the total moves needed t
 - -1: ra → rrb → pb = 3 moves
 - 18: ra → ra → pb = 3 moves
 - -70: rrr → ra → pb = 3 moves
-- -61: rra → pb = 2 moves
+- -61: rrr → pb = 2 moves
 
 IMPORTANT: Check if both nodes (A-node and its target) are above or below the median—this allows you to save moves by using rr or rrr operations.
 
