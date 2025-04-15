@@ -53,7 +53,7 @@ This is a good approach, but we can refine it by identifying which number requir
 
 If there is only one node in a, don't do nothing
 
-If there is only two nodes in a, check if they are sorted. If they aren't, just do pa
+If there is only two nodes in a, check if they are sorted. If they aren't, just do sa
 
 If only three nodes in a, order them in a without pushing any node to b (try to create your own ordering algorithm for three nodes!).
 
