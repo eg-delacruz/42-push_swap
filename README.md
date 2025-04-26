@@ -179,7 +179,7 @@ While working on this guide, I noticed a few potential optimizations that could 
 ## Author
 <br>
 <a href="https://www.linkedin.com/in/eg-delacruz/" target="_blank">
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQGSBV1mzrlVFQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731940599224?e=1742428800&v=beta&t=3igUnVuGAMvdVgAU_Lbz8AjtgPSQF4rFk2GviR_VXIg" alt="Gerardo De La Cruz" width="200"/>
+<img src="https://www.gerardodelacruz.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FGerardo_2.687b8520.jpg&w=384&q=75" alt="Gerardo De La Cruz" width="200"/>
   <p>Gerardo De La Cruz</p>
 </a>
 <br>
